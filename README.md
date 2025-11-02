@@ -41,13 +41,5 @@
 
 ---
 
-## 📌 Repositorios fijados recomendados
-> Para fijarlos ve a tu perfil → “Customize your pins”
-
-- `Sistema-de-Gestion-de-Horarios`
-- `App-Energias-Limpias-ODS11`
-- `Conversor-Divisas-Flutter`
-
----
 
 ⭐ *“El aprendizaje constante es la clave para transformar ideas en soluciones.”*
